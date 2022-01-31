@@ -30,10 +30,12 @@ export default function Home() {
             </a>
           </Link>
 
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
+          <Link href="/testpage">
+            <a className={styles.card}>
+              <h2>Test Page &rarr;</h2>
+              <p>Created by me.</p>
+            </a>
+          </Link>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Learn &rarr;</h2>
