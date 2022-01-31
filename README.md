@@ -25,3 +25,11 @@ yarn create next-app --example with-cypress with-cypress-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+```bash
+npm install
+npm run cypress
+```
+
+
+![image](https://user-images.githubusercontent.com/23318514/151858269-7faf6bb3-6728-48e7-9a21-7264b634bedd.png)
